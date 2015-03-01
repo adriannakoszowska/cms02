@@ -1,0 +1,21 @@
+<?php
+defined('is_running') or die('Not an entry point...');
+$fileVersion = '4.3.4';
+$fileModTime = '1425208284';
+$file_stats = array (
+  'created' => 1425208284,
+  'gpversion' => '4.3.4',
+  'modified' => 1425208284,
+  'username' => 'Kotek',
+);
+
+$addresses = array (
+  'koszowska.a@wp.pl' => 
+  array (
+    'key' => 'OlnYNVPZpFWXSedSByPXs9IpFmrv',
+    'datetime' => 1425208284,
+    'sent' => 0,
+    'activated' => 0,
+  ),
+);
+
